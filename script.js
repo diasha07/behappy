@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "You're wonderful! ✨",
         "I'm proud of you! 🏆",
         "Kisses! 💋",
-        "We're a team! 👫",
+        "Cris the best!!!",
         "You are special to me! 💖"
     ];
     
